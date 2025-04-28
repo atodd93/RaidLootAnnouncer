@@ -1,0 +1,8 @@
+## Interface: 100007
+## Title: RaidLootAnnouncer
+## Notes: Raid Loot and Encounter Tracker
+## Author: Heuto
+## Version: 1.0
+## SavedVariables: RaidLootAnnouncerDB
+
+RaidLootAnnouncer.lua
